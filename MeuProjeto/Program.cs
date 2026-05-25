@@ -6,3 +6,7 @@ if (idade >= 18)
 {
     Console.WriteLine("você e maior de idade.");
 }
+else if (idade < 18)
+{
+    console.wirteline("você e menor de idade.")
+}
