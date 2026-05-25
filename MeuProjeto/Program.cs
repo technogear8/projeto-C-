@@ -8,5 +8,5 @@ if (idade >= 18)
 }
 else if (idade < 18)
 {
-    console.wirteline("você e menor de idade.")
+    console.writeline("você e menor de idade.")
 }
